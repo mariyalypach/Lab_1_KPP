@@ -1,0 +1,19 @@
+{
+  "name": "dan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanKhuda/Lab_1_KPP.git"
+  },
+  "author": "Dan Khuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanKhuda/Lab_1_KPP/issues"
+  },
+  "homepage": "https://github.com/DanKhuda/Lab_1_KPP#readme"
+}
