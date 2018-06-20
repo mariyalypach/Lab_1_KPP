@@ -37,7 +37,7 @@ function check(number, userNumber)
             if (number[i] == userNumber[j] && i != j) {cow++;}
         }
     }
-    console.log('Корів ' + cow + ' Биків ' + bull + '\n');
+    console.log('Cows ' + cow + ' Bulls ' + bull + '\n');
     return bull;
 }
 
